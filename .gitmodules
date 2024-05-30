@@ -1,3 +1,9 @@
 [submodule "Cohort-2-test"]
 	path = Cohort-2-test
 	url = https://github.com/GuildAudits/Cohort-2-test
+[submodule "Solution/Task 1/lib/forge-std"]
+	path = Solution/Task 1/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Solution/Task_1/lib/openzeppelin-contracts"]
+	path = Solution/Task_1/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
